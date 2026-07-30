@@ -1,2 +1,3 @@
 # checkout-dashboard
-Dashboard de Gestão Operacional do Checkout
+Painel de Gestão Checkout Noturno
+Dashboard desenvolvido para acompanhar a produtividade, qualidade e indicadores do Checkout da FutFanatics.
